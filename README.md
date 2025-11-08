@@ -44,7 +44,7 @@ Full auction platform with custom business logic, permissions, and class-based v
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=cgonvives&show_icons=true&theme=tokyonight)
 
 ---
 
