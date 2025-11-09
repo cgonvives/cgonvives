@@ -14,6 +14,8 @@ Bringing math, data, and AI together to understand complex systems — from ener
 ---
 
 ### 🚀 Featured Projects
+🔹 [**Trading-BigData**](https://github.com/cgonvives/Trading-BigData)  
+AWS-based crypto-trading analytics pipeline using a Data Lake architecture (S3, Glue, Timestream) for data ingestion, transformation, and technical indicator computation.
 
 🔹 [**Deep Learning from scracth**](https://github.com/cgonvives/Deep-Learning-Scratch)  
 Implementations of optimizers, RNNs, LSTMs, and normalization layers built entirely from zero in PyTorch.
